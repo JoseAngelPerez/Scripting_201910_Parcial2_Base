@@ -9,3 +9,5 @@ El patron facade no es necesario ya que no se requiere simplificar el acceso a m
 Flyweight no es necesario ya que los unicos que comparten una funcion en comin es el ia que explota al llegar al enemigo y el que le dispara, estos comparten la caraceristica de ditrijirse al jugador, pero solo comparten esta , por lo cual no considero que sea fundamental emplearla ya que solo es una.
 El patron command podria ser utilizado para los botones y las funciones que estos ejecutan separando la logica de la ejecucion, pero ene el enunciado no de pide alterar algo en el sistema de controles, es innecesario hacer esto.
 Los patrones obserever y estate los voy autilizar ambos para verificar cuando se encuentra cerca del ca de personaje (observer) y utilizare state para cambiar el comportamiento de los enemigos segun el observer.
+
+Hice solo la piscina para que aparezcan los enemigos, se debe acercar para "matarlos" y despues de acabar con todos apareceran de nuevo
