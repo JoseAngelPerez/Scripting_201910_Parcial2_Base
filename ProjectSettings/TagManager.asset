@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Character
+  - enemy
+  - pooler
+  - player
+  - pool
   layers:
   - Default
   - TransparentFX
