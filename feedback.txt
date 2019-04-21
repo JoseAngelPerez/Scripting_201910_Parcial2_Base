@@ -1,0 +1,11 @@
+feedback
+
+Componente Práctico (/ 5.0)
+* La entrega se hizo mal. Al intentar colocar la carpeta de Scripts en su ruta correcta en el proyecto, se corrompe y se pierden referencias a scripts, por tanto no se puede probar la implementación.
+* El readme explica debidamente la estrategia de implementación, pero dado que hay errores de corrupción, no se puede probar que la estrategia esté soportada con la implementación (0.5 / 1.0)
+* Los nodos del BT no están implementados (0.0 / 1.5)
+* Los estados del AI no están implentados (0.0 / 1.0)
+* Hay un script que hace las veces de pool para los enemigos (0.2 / 0.4) y que los reinstancie una vez todas las instancias anteriores mueran (0.35 / 0.7), pero no puedo probar que esté correcto.
+* No hay ningún script que haga de pool para las balas; por tanto no puedo confirmar que las balas no se instancien y destruyan constantemente (0.0 / 0.4)
+
+Total: 1.05/ 5.0
